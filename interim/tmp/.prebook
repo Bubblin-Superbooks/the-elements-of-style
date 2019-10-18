@@ -1,0 +1,2639 @@
+[
+  {
+    "tag": "h4",
+    "innerHtml": "Chapter I. Introductory"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "This book aims to give in brief space the principal requirements of plain English style. It aims to lighten the task of instructor and student by concentrating attention on a few essentials, focus on the rules of usage and principles of composition most commonly violated. In accordance with this plan it lays down three rules for the use of the comma, instead of a score or more, and one for the use of the semicolon, in the belief that these four rules provide for all the internal punctuation that is required by nineteen sentences out of twenty. Similarly, it gives in only those principles of the paragraph and the sentence which are of the widest application. The book thus covers only a small portion of the field of English style. The experience of its writer has been that once past the essentials, students profit most by individual instruction based on the problems of their own work, and that each instructor has his own body of theory, which he may prefer to that offered by any textbook."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "The numbers of the sections may be used as references in correcting manuscript."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "The writer's colleagues in the Department of English in Cornell University have greatly helped him in the preparation of his manuscript. Mr. George McLane Wood has kindly consented to the inclusion under of some material from his Suggestions to Authors."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "The following books are recommended for reference or further study: in connection with Chapters , F. Howard Collins, Author and Printer (Henry Frowde); Chicago University Press, Manual of Style; T. L. De Vinne, Correct Composition (The Century Company); Horace Hart, Rules for Compositors and Printers (Oxford University Press); George McLane Wood, Extracts from the Style-Book of the Government Printing Office (United States Geological Survey); in connection with Chapters and , The King's English (Oxford University Press); Sir Arthur Quiller-Couch, The Art of Writing (Putnam), especially the chapter, Interlude on Jargon; George McLane Wood, Suggestions to Authors (United States Geological Survey); John Lesslie Hall, English Usage (Scott, Foresman and Co.); James P. Kelley, Workmanship in Words (Little, Brown and Co.). In these will be found full discussions of many points here briefly treated and an abundant store of illustrations to supplement those given in this book. )"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "It is an old observation that the best writers sometimes disregard the rules of rhetoric. When they do so, however, the reader will usually find in the sentence some compensating merit, attained at the cost of the violation. Unless he is certain of doing as well, he will probably do best to follow the rules. After he has learned, by their guidance, to write plain English adequate for everyday uses, let him look, for the secrets of style, to the study of the masters of literature."
+  },
+  {
+    "tag": "h4",
+    "innerHtml": "Chapter II. Elementary Rules Of Usage"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Form the possessive singular of nouns by adding 's."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Follow this rule whatever the final consonant. Thus write,"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Charles's friend"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Burns's poems"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "the witch's malice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "This is the usage of the United States Government Printing Office and of the Oxford University Press."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Exceptions are the possessive of ancient proper names in <em>-es</em> and <em>-is</em>, the possessive <em>Jesus'</em>, and such forms as <em>for conscience' sake</em>, <em>for righteousness' sake</em>. But such forms as <em>Achilles' heel</em>, <em>Moses' laws</em>, <em>Isis' temple</em> are commonly replaced by"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "the heel of Achilles"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "the laws of Moses"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "the temple of Isis"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "The pronominal possessives <em>hers</em>, <em>its</em>, <em>theirs</em>, <em>yours</em>, and <em>oneself</em> have no apostrophe."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "In a series of three or more terms with a single conjunction, use a comma after each term except the last."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Thus write,"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "red, white, and blue"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "gold, silver, or copper"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "He opened the letter, read it, and made a note of its contents."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "This is also the usage of the Government Printing Office and of the Oxford University Press."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "In the names of business firms the last comma is omitted, as,"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Brown, Shipley & Co."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Enclose parenthetic expressions between commas."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "The best way to see a country, unless you are pressed for time, is to travel on foot."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "This rule is difficult to apply; it is frequently hard to decide whether a single word, such as <em>however</em>, or a brief phrase, is or is not parenthetic. If the interruption to the flow of the sentence is but slight, the writer may safely omit the commas. But whether the interruption be slight or considerable, he must never insert one comma and omit the other. Such punctuation as"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Marjorie's husband, Colonel Nelson paid us a visit yesterday,"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "or"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "My brother you will be pleased to hear, is now in perfect health,"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "is indefensible."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "If a parenthetic expression is preceded by a conjunction, place the first comma before the conjunction, not after it."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "He saw us coming, and unaware that we had learned of his treachery, greeted us with a smile."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Always to be regarded as parenthetic and to be enclosed between commas (or, at the end of the sentence, between comma and period are the following: )"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "(1 the year, when forming part of a date, and the day of the month, when following the day of the week: )"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "February to July, 1916."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "April 6, 1917."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Monday, November 11, 1918."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "(2 the abbreviations <em>etc.</em> and <em>jr.</em> )"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "(3 non-restrictive relative clauses, that is, those which do not serve to identify or define the antecedent noun, and similar clauses introduced by conjunctions indicating time or place. )"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "The audience, which had at first been indifferent, became more and more interested."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "In this sentence the clause introduced by <em>which</em> does not serve to tell which of several possible audiences is meant; what audience is in question is supposed to be already known. The clause adds, parenthetically, a statement supplementing that in the main clause. The sentence is virtually a combination of two statements which might have been made independently:"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "The audience had at first been indifferent. It became more and more interested."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Compare the restrictive relative clause, not set off by commas, in the sentence,"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "The candidate who best meets these requirements will obtain the place."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Here the clause introduced by <em>who</em> does serve to tell which of several possible candidates is meant; the sentence cannot be split up into two independent statements."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "The difference in punctuation in the two sentences following is based on the same principle:"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Nether Stowey, where Coleridge wrote The Rime of the Ancient Mariner, is a few miles from Bridgewater."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "The day will come when you will admit your mistake."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Nether Stowey is completely identified by its name; the statement about Coleridge is therefore supplementary and parenthetic. The <em>day</em> spoken of is identified only by the dependent clause, which is therefore restrictive."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Similar in principle to the enclosing of parenthetic expressions between commas is the setting off by commas of phrases or dependent clauses preceding or following the main clause of a sentence."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Partly by hard fighting, partly by diplomatic skill, they enlarged their dominions to the east, and rose to royal rank with the possession of Sicily, exchanged afterwards for Sardinia."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Other illustrations may be found in sentences quoted under Rules , , , , , and ."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "The writer should be careful not to set off independent clauses by commas: see under ."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Place a comma before a conjunction introducing a co-ordinate clause."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "The early records of the city have disappeared, and the story of its first years can no longer be reconstructed."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "The situation is perilous, but there is still one chance of escape."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Sentences of this type, isolated from their context, may seem to be in need of rewriting. As they make complete sense when the comma is reached, the second clause has the appearance of an afterthought. Further, <em>and</em> is the least specific of connectives. Used between independent clauses, it indicates only that a relation exists between them without defining that relation. In the example above, the relation is that of cause and result. The two sentences might be rewritten:"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "As the early records of the city have disappeared, the story of its first years can no longer be reconstructed."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Although the situation is perilous, there is still one chance of escape."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Or the subordinate clauses might be replaced by phrases:"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Owing to the disappearance of the early records of the city, the story of its first years can no longer be reconstructed."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "In this perilous situation, there is still one chance of escape."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "But a writer may err by making his sentences too uniformly compact and periodic, and an occasional loose sentence prevents the style from becoming too formal and gives the reader a certain relief. Consequently, loose sentences of the type first quoted are common in easy, unstudied writing. But a writer should be careful not to construct too many of his sentences after this pattern (see )."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Two-part sentences of which the second member is introduced by <em>as</em> (in the sense of <em>because</em>), <em>for</em>, <em>or</em>, <em>nor</em>, and <em>while</em> (in the sense of <em>and at the same time</em> likewise require a comma before the conjunction. )"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "If the second member is introduced by an adverb, a semicolon, not a comma, is required (see ). The connectives <em>so</em> and <em>yet</em> may be used either as adverbs or as conjunctions, accordingly as the second clause is felt to be co-ordinate or subordinate; consequently either mark of punctuation may be justified. But these uses of <em>so</em> (equivalent to <em>accordingly</em> or to <em>so that</em> are somewhat colloquial and should, as a rule, be avoided in writing. A simple correction, usually serviceable, is to omit the word <em>so</em> and begin the first clause with <em>as</em> or <em>since</em>: )"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "I had never been in the place before; so I had difficulty in finding my way about."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "As I had never been in the place before, I had difficulty in finding my way about."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "If a dependent clause, or an introductory phrase requiring to be set off by a comma, precedes the second independent clause, no comma is needed after the conjunction."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "The situation is perilous, but if we are prepared to act promptly, there is still one chance of escape."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "When the subject is the same for both clauses and is expressed only once, a comma is required if the connective is <em>but</em>. If the connective is <em>and</em>, the comma should be omitted if the relation between the two statements is close or immediate."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "I have heard his arguments, but am still unconvinced."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "He has had several years' experience and is thoroughly competent."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Do not join independent clauses by a comma."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "If two or more clauses, grammatically complete and not joined by a conjunction, are to form a single compound sentence, the proper mark of punctuation is a semicolon."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Stevenson's romances are entertaining; they are full of exciting adventures."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "It is nearly half past five; we cannot reach town before dark."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "It is of course equally correct to write the above as two sentences each, replacing the semicolons by periods."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Stevenson's romances are entertaining. They are full of exciting adventures."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "It is nearly half past five. We cannot reach town before dark."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "If a conjunction is inserted the proper mark is a comma ()."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Stevenson's romances are entertaining, for they are full of exciting adventures."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "It is nearly half past five, and we cannot reach town before dark."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "A comparison of the three forms given above will show clearly the advantage of the first. It is, at least in the examples given, better than the second form, because it suggests the close relationship between the two statements in a way that the second does not attempt, and better than the third, because briefer and therefore more forcible. Indeed it may be said that this simple method of indicating relationship between statements is one of the most useful devices of composition. The relationship, as above, is commonly one of cause or of consequence."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Note that if the second clause is preceded by an adverb, such as <em>accordingly</em>, <em>besides</em>, <em>then</em>, <em>therefore</em>, or <em>thus</em>, and not by a conjunction, the semicolon is still required."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Two exceptions to the rule may be admitted. If the clauses are very short, and are alike in form, a comma is usually permissible:"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Man proposes, God disposes."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "The gate swung apart, the bridge fell, the portcullis was drawn up."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Note that in these examples the relation is not one of cause or consequence. Also in the colloquial form of expression,"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "I hardly knew him, he was so changed,"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "a comma, not a semicolon, is required. But this form of expression is inappropriate in writing, except in the dialogue of a story or play, or perhaps in a familiar letter."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Do not break sentences in two."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "In other words, do not use periods for commas."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "I met them on a Cunard liner several years ago. Coming home from Liverpool to New York."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "He was an interesting talker. A man who had traveled all over the world and lived in half a dozen countries."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "In both these examples, the first period should be replaced by a comma, and the following word begun with a small letter."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "It is permissible to make an emphatic word or expression serve the purpose of a sentence and to punctuate it accordingly:"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Again and again he called out. No reply."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "The writer must, however, be certain that the emphasis is warranted, and that he will not be suspected of a mere blunder in syntax or in punctuation."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Rules , , , and"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "A participial phrase at the beginning of a sentence must refer to the grammatical subject."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Walking slowly down the road, he saw a woman accompanied by two children."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "The word <em>walking</em> refers to the subject of the sentence, not to the woman. If the writer wishes to make it refer to the woman, he must recast the sentence:"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "He saw a woman accompanied by two children, walking slowly down the road."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Participial phrases preceded by a conjunction or by a preposition, nouns in apposition, adjectives, and adjective phrases come under the same rule if they begin the sentence."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "On arriving in Chicago, his friends met him at the station."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "When he arrived (or, On his arrival in Chicago, his friends met him at the station. )"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "A soldier of proved valor, they entrusted him with the defence of the city."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "A soldier of proved valor, he was entrusted with the defence of the city."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Young and inexperienced, the task seemed easy to me."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Young and inexperienced, I thought the task easy."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Without a friend to counsel him, the temptation proved irresistible."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Without a friend to counsel him, he found the temptation irresistible."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Sentences violating this rule are often ludicrous."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Being in a dilapidated condition, I was able to buy the house very cheap."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Wondering irresolutely what to do next, the clock struck twelve."
+  },
+  {
+    "tag": "h4",
+    "innerHtml": "Chapter III. Elementary Principles Of Composition"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Make the paragraph the unit of composition: one paragraph to each topic."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "If the subject on which you are writing is of slight extent, or if you intend to treat it very briefly, there may be no need of subdividing it into topics. Thus a brief description, a brief summary of a literary work, a brief account of a single incident, a narrative merely outlining an action, the setting forth of a single idea, any one of these is best written in a single paragraph. After the paragraph has been written, examine it to see whether subdivision will not improve it."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Ordinarily, however, a subject requires subdivision into topics, each of which should be made the subject of a paragraph. The object of treating each topic in a paragraph by itself is, of course, to aid the reader. The beginning of each paragraph is a signal to him that a new step in the development of the subject has been reached."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "The extent of subdivision will vary with the length of the composition. For example, a short notice of a book or poem might consist of a single paragraph. One slightly longer might consist of two paragraphs:"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "A. Account of the work.\n   B. Critical discussion."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "A report on a poem, written for a class in literature, might consist of seven paragraphs:"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "A. Facts of composition and publication.\n   B. Kind of poem; metrical form.\n   C. Subject.\n   D. Treatment of subject.\n   E. For what chiefly remarkable.\n   F. Wherein characteristic of the writer.\n   G. Relationship to other works."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "The contents of paragraphs C and D would vary with the poem. Usually, paragraph C would indicate the actual or imagined circumstances of the poem (the situation), if these call for explanation, and would then state the subject and outline its development. If the poem is a narrative in the third person throughout, paragraph C need contain no more than a concise summary of the action. Paragraph D would indicate the leading ideas and show how they are made prominent, or would indicate what points in the narrative are chiefly emphasized."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "A novel might be discussed under the heads:"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "A. Setting.\n   B. Plot.\n   C. Characters.\n   D. Purpose."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "An historical event might be discussed under the heads:"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "A. What led up to the event.\n   B. Account of the event.\n   C. What the event led up to."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "In treating either of these last two subjects, the writer would probably find it necessary to subdivide one or more of the topics here given."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "As a rule, single sentences should not be written or printed as paragraphs. An exception may be made of sentences of transition, indicating the relation between the parts of an exposition or argument. Frequent exceptions are also necessary in textbooks, guidebooks, and other works in which many topics are treated briefly."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "In dialogue, each speech, even if only a single word, is a paragraph by itself; that is, a new paragraph begins with each change of speaker. The application of this rule, when dialogue and narrative are combined, is best learned from examples in well-printed works of fiction."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "As a rule, begin each paragraph with a topic sentence, end it in conformity with the beginning."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Again, the object is to aid the reader. The practice here recommended enables him to discover the purpose of each paragraph as he begins to read it, and to retain this purpose in mind as he ends it. For this reason, the most generally useful kind of paragraph, particularly in exposition and argument, is that in which"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "(a the topic sentence comes at or near the beginning; )"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "(b the succeeding sentences explain or establish or develop the statement made in the topic sentence; and )"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "(c the final sentence either emphasizes the thought of the topic sentence or states some important consequence. )"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Ending with a digression, or with an unimportant detail, is particularly to be avoided."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "If the paragraph forms part of a larger composition, its relation to what precedes, or its function as a part of the whole, may need to be expressed. This can sometimes be done by a mere word or phrase (<em>again</em>; <em>therefore</em>; <em>for the same reason</em> in the topic sentence. Sometimes, however, it is expedient to precede the topic sentence by one or more sentences of introduction or transition. If more than one such sentence is required, it is generally better to set apart the transitional sentences as a separate paragraph. )"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "According to the writer's purpose, he may, as indicated above, relate the body of the paragraph to the topic sentence in one or more of several different ways. He may make the meaning of the topic sentence clearer by restating it in other forms, by defining its terms, by denying the contrary, by giving illustrations or specific instances; he may establish it by proofs; or he may develop it by showing its implications and consequences. In a long paragraph, he may carry out several of these processes."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Now, to be properly enjoyed, a walking tour should be gone upon alone. 2 If you go in a company, or even in pairs, it is no longer a walking tour in anything but name; it is something else and more in the nature of a picnic. 3 A walking tour should be gone upon alone, because freedom is of the essence; because you should be able to stop and go on, and follow this way or that, as the freak takes you; and because you must have your own pace, and neither trot alongside a champion walker, nor mince in time with a girl. 4 And you must be open to all impressions and let your thoughts take colour from what you see. 5 You should be as a pipe for any wind to play upon. 6 “I cannot see the wit,” says Hazlitt, “of walking and talking at the same time. 7 When I am in the country, I wish to vegetate like the country,” which is the gist of all that can be said upon the matter. 8 There should be no cackle of voices at your elbow, to jar on the meditative silence of the morning. 9 And so long as a man is reasoning he cannot surrender himself to that fine intoxication that comes of much motion in the open air, that begins in a sort of dazzle and sluggishness of the brain, and ends in a peace that passes comprehension.—Stevenson, Walking Tours."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Topic sentence. 2 The meaning made clearer by denial of the contrary. 3 The topic sentence repeated, in abridged form, and supported by three reasons; the meaning of the third (“you must have your own pace” made clearer by denying the contrary. 4 A fourth reason, stated in two forms. 5 The same reason, stated in still another form. 6–7 The same reason as stated by Hazlitt. 8 Repetition, in paraphrase, of the quotation from Hazlitt. 9 Final statement of the fourth reason, in language amplified and heightened to form a strong conclusion. )"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "It was chiefly in the eighteenth century that a very different conception of history grew up. 2 Historians then came to believe that their task was not so much to paint a picture as to solve a problem; to explain or illustrate the successive phases of national growth, prosperity, and adversity. 3 The history of morals, of industry, of intellect, and of art; the changes that take place in manners or beliefs; the dominant ideas that prevailed in successive periods; the rise, fall, and modification of political constitutions; in a word, all the conditions of national well-being became the subject of their works. 4 They sought rather to write a history of peoples than a history of kings. 5 They looked especially in history for the chain of causes and effects. 6 They undertook to study in the past the physiology of nations, and hoped by applying the experimental method on a large scale to deduce some lessons of real value about the conditions on which the welfare of society mainly depend.—Lecky, The Political Value of History."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Topic sentence. 2 The meaning of the topic sentence made clearer; the new conception of history defined. 3 The definition expanded. 4 The definition explained by contrast. 5 The definition supplemented: another element in the new conception of history. 6 Conclusion: an important consequence of the new conception of history."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "In narration and description the paragraph sometimes begins with a concise, comprehensive statement serving to hold together the details that follow."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "The breeze served us admirably."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "The campaign opened with a series of reverses."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "The next ten or twelve pages were filled with a curious set of entries."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "But this device, if too often used, would become a mannerism. More commonly the opening sentence simply indicates by its subject with what the paragraph is to be principally concerned."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "At length I thought I might return towards the stockade."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "He picked up the heavy lamp from the table and began to explore."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Another flight of steps, and they emerged on the roof."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "The brief paragraphs of animated narrative, however, are often without even this semblance of a topic sentence. The break between them serves the purpose of a rhetorical pause, throwing into prominence some detail of the action."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Use the active voice."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "The active voice is usually more direct and vigorous than the passive:"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "I shall always remember my first visit to Boston."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "This is much better than"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "My first visit to Boston will always be remembered by me."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "The latter sentence is less direct, less bold, and less concise. If the writer tries to make it more concise by omitting “by me,”"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "My first visit to Boston will always be remembered,"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "it becomes indefinite: is it the writer, or some person undisclosed, or the world at large, that will always remember this visit?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "This rule does not, of course, mean that the writer should entirely discard the passive voice, which is frequently convenient and sometimes necessary."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "The dramatists of the Restoration are little esteemed to-day."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Modern readers have little esteem for the dramatists of the Restoration."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "The first would be the right form in a paragraph on the dramatists of the Restoration; the second, in a paragraph on the tastes of modern readers. The need of making a particular word the subject of the sentence will often, as in these examples, determine which voice is to be used."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "As a rule, avoid making one passive depend directly upon another."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Gold was not allowed to be exported."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "It was forbidden to export gold (The export of gold was prohibited)."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "He has been proved to have been seen entering the building."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "It has been proved that he was seen to enter the building."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "In both the examples above, before correction, the word properly related to the second passive is made the subject of the first."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "A common fault is to use as the subject of a passive construction a noun which expresses the entire action, leaving to the verb no function beyond that of completing the sentence."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "A survey of this region was made in 1900."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "This region was surveyed in 1900."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Mobilization of the army was rapidly effected."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "The army was rapidly mobilized."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Confirmation of these reports cannot be obtained."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "These reports cannot be confirmed."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Compare the sentence, “The export of gold was prohibited,” in which the predicate “was prohibited” expresses something not implied in “export.”"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "The habitual use of the active voice makes for forcible writing. This is true not only in narrative principally concerned with action, but in writing of any kind. Many a tame sentence of description or exposition can be made lively and emphatic by substituting a verb in the active voice for some such perfunctory expression as <em>there is</em>, or <em>could be heard</em>."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "There were a great number of dead leaves lying on the ground."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Dead leaves covered the ground."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "The sound of a guitar somewhere in the house could be heard."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Somewhere in the house a guitar hummed sleepily."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "The reason that he left college was that his health became impaired."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Failing health compelled him to leave college."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "It was not long before he was very sorry that he had said what he had."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "He soon repented his words."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Put statements in positive form."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Make definite assertions. Avoid tame, colorless, hesitating, non-committal language. Use the word <em>not</em> as a means of denial or in antithesis, never as a means of evasion."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "He was not very often on time."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "He usually came late."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "He did not think that studying Latin was much use."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "He thought the study of Latin useless."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "The Taming of the Shrew is rather weak in spots. Shakespeare does not portray Katharine as a very admirable character, nor does Bianca remain long in memory as an important character in Shakespeare's works."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "The women in The Taming of the Shrew are unattractive. Katharine is disagreeable, Bianca insignificant."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "The last example, before correction, is indefinite as well as negative. The corrected version, consequently, is simply a guess at the writer's intention."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "All three examples show the weakness inherent in the word <em>not</em>. Consciously or unconsciously, the reader is dissatisfied with being told only what is not; he wishes to be told what is. Hence, as a rule, it is better to express even a negative in positive form."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "not honest"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "dishonest"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "not important"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "trifling"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "did not remember"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "forgot"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "did not pay any attention to"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "ignored"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "did not have much confidence in"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "distrusted"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "The antithesis of negative and positive is strong:"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Not charity, but simple justice."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Not that I loved Caesar less, but Rome the more."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Negative words other than <em>not</em> are usually strong:"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "The sun never sets upon the British flag."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Use definite, specific, concrete language."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Prefer the specific to the general, the definite to the vague, the concrete to the abstract."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "A period of unfavorable weather set in."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "It rained every day for a week."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "He showed satisfaction as he took possession of his well-earned reward."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "He grinned as he pocketed the coin."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "There is a general agreement among those who have enjoyed the experience that surf-riding is productive of great exhilaration."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "All who have tried surf-riding agree that it is most exhilarating."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "If those who have studied the art of writing are in accord on any one point, it is on this, that the surest method of arousing and holding the attention of the reader is by being specific, definite, and concrete. Critics have pointed out how much of the effectiveness of the greatest writers, Homer, Dante, Shakespeare, results from their constant definiteness and concreteness. Browning, to cite a more modern author, affords many striking examples. Take, for instance, the lines from My Last Duchess,"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Sir, 'twas all one! My favour at her breast,"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "The dropping of the daylight in the west,"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "The bough of cherries some officious fool"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Broke in the orchard for her, the white mule"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "She rode with round the terrace—all and each"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Would draw from her alike the approving speech,"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Or blush, at least,"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "and those which end the poem,"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Notice Neptune, though,"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Taming a sea-horse, thought a rarity,"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Which Claus of Innsbruck cast in bronze for me."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "These words call up pictures. Recall how in The Bishop Orders his Tomb in St. Praxed's Church “the Renaissance spirit—its worldliness, inconsistency, pride, hypocrisy, ignorance of itself, love of art, of luxury, of good Latin,” to quote Ruskin's comment on the poem, is made manifest in specific details and in concrete terms."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Prose, in particular narrative and descriptive prose, is made vivid by the same means. If the experiences of Jim Hawkins and of David Balfour, of Kim, of Nostromo, have seemed for the moment real to countless readers, if in reading Carlyle we have almost the sense of being physically present at the taking of the Bastille, it is because of the definiteness of the details and the concreteness of the terms used. It is not that every detail is given; that would be impossible, as well as to no purpose; but that all the significant details are given, and not vaguely, but with such definiteness that the reader, in imagination, can project himself into the scene."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "In exposition and in argument, the writer must likewise never lose his hold upon the concrete, and even when he is dealing with general principles, he must give particular instances of their application."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "“This superiority of specific expressions is clearly due to the effort required to translate words into thoughts. As we do not think in generals, but in particulars—as whenever any class of things is referred to, we represent it to ourselves by calling to mind individual members of it, it follows that when an abstract word is used, the hearer or reader has to choose, from his stock of images, one or more by which he may figure to himself the genus mentioned. In doing this, some delay must arise, some force be expended; and if by employing a specific term an appropriate image can be at once suggested, an economy is achieved, and a more vivid impression produced.”"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Herbert Spencer, from whose Philosophy of Style the preceding paragraph is quoted, illustrates the principle by the sentences:"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "In proportion as the manners, customs, and amusements of a nation are cruel and barbarous, the regulations of their penal code will be severe."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "In proportion as men delight in battles, bull-fights, and combats of gladiators, will they punish by hanging, burning, and the rack."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Omit needless words."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Vigorous writing is concise. A sentence should contain no unnecessary words, a paragraph no unnecessary sentences, for the same reason that a drawing should have no unnecessary lines and a machine no unnecessary parts. This requires not that the writer make all his sentences short, or that he avoid all detail and treat his subjects only in outline, but that he make every word tell."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Many expressions in common use violate this principle:"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "the question as to whether"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "whether (the question whether)"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "there is no doubt but that"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "no doubt (doubtless)"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "used for fuel purposes"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "used for fuel"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "he is a man who"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "he"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "in a hasty manner"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "hastily"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "this is a subject which"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "this subject"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "His story is a strange one."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "His story is strange."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "In especial the expression <em>the fact that</em> should be revised out of every sentence in which it occurs."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "owing to the fact that"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "since (because)"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "in spite of the fact that"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "though (although)"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "call your attention to the fact that"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "remind you (notify you)"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "I was unaware of the fact that"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "I was unaware that (did not know)"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "the fact that he had not succeeded"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "his failure"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "the fact that I had arrived"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "my arrival"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "<em>Who is</em>, <em>which was</em>, and the like are often superfluous."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "His brother, who is a member of the same firm"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "His brother, a member of the same firm"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Trafalgar, which was Nelson's last battle"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Trafalgar, Nelson's last battle"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "As positive statement is more concise than negative, and the active voice more concise than the passive, many of the examples given under Rules illustrate this rule as well. )"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "A common violation of conciseness is the presentation of a single complex idea, step by step, in a series of sentences or independent clauses which might to advantage be combined into one."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Macbeth was very ambitious. This led him to wish to become king of Scotland. The witches told him that this wish of his would come true. The king of Scotland at this time was Duncan. Encouraged by his wife, Macbeth murdered Duncan. He was thus enabled to succeed Duncan as king. (51 words.)"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Encouraged by his wife, Macbeth achieved his ambition and realized the prediction of the witches by murdering Duncan and becoming king of Scotland in his place. (26 words.)"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "There were several less important courses, but these were the most important, and although they did not come every day, they came often enough to keep you in such a state of mind that you never knew what your next move would be. (43 words.)"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "These, the most important courses of all, came, if not daily, at least often enough to keep one under constant strain. (21 words.)"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Avoid a succession of loose sentences:"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "This rule refers especially to loose sentences of a particular type, those consisting of two co-ordinate clauses, the second introduced by a conjunction or relative. Although single sentences of this type may be unexceptionable (see under ), a series soon becomes monotonous and tedious."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "An unskilful writer will sometimes construct a whole paragraph of sentences of this kind, using as connectives <em>and</em>, <em>but</em>, <em>so</em>, and less frequently, <em>who</em>, <em>which</em>, <em>when</em>, <em>where</em>, and <em>while</em>, these last in non-restrictive senses (see under )."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "The third concert of the subscription series was given last evening, and a large audience was in attendance. Mr. Edward Appleton was the soloist, and the Boston Symphony Orchestra furnished the instrumental music. The former showed himself to be an artist of the first rank, while the latter proved itself fully deserving of its high reputation. The interest aroused by the series has been very gratifying to the Committee, and it is planned to give a similar series annually hereafter. The fourth concert will be given on Tuesday, May 10, when an equally attractive programme will be presented."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Apart from its triteness and emptiness, the paragraph above is weak because of the structure of its sentences, with their mechanical symmetry and sing-song. Contrast with them the sentences in the paragraphs quoted under , or in any piece of good English prose, as the preface (Before the Curtain to Vanity Fair. )"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "If the writer finds that he has written a series of sentences of the type described, he should recast enough of them to remove the monotony, replacing them by simple sentences, by sentences of two clauses joined by a semicolon, by periodic sentences of two clauses, by sentences, loose or periodic, of three clauses—whichever best represent the real relations of the thought."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Express co-ordinate ideas in similar form."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "This principle, that of parallel construction, requires that expressions of similar content and function should be outwardly similar. The likeness of form enables the reader to recognize more readily the likeness of content and function. Familiar instances from the Bible are the Ten Commandments, the Beatitudes, and the petitions of the Lord's Prayer."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "The unskillful writer often violates this principle, from a mistaken belief that he should constantly vary the form of his expressions. It is true that in repeating a statement in order to emphasize it he may have need to vary its form. For illustration, see the paragraph from Stevenson quoted under . But apart from this, he should follow the principle of parallel construction."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Formerly, science was taught by the textbook method, while now the laboratory method is employed."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Formerly, science was taught by the textbook method; now it is taught by the laboratory method."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "The left-hand version gives the impression that the writer is undecided or timid; he seems unable or afraid to choose one form of expression and hold to it. The right-hand version shows that the writer has at least made his choice and abided by it."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "By this principle, an article or a preposition applying to all the members of a series must either be used only before the first term or else be repeated before each term."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "The French, the Italians, Spanish, and Portuguese"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "The French, the Italians, the Spanish, and the Portuguese"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "In spring, summer, or in winter"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "In spring, summer, or winter (In spring, in summer, or in winter)"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Correlative expressions (<em>both, and</em>; <em>not, but</em>; <em>not only, but also</em>; <em>either, or</em>; <em>first, second, third</em>; and the like should be followed by the same grammatical construction, that is, virtually, by the same part of speech. (Such combinations as “both Henry and I,” “not silk, but a cheap substitute,” are obviously within the rule. Many violations of this rule (as the first three below arise from faulty arrangement; others (as the last from the use of unlike constructions.) ) ) )"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "It was both a long ceremony and very tedious."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "The ceremony was both long and tedious."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "A time not for words, but action."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "A time not for words, but for action."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Either you must grant his request or incur his ill will."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "You must either grant his request or incur his ill will."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "My objections are, first, the injustice of the measure; second, that it is unconstitutional."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "My objections are, first, that the measure is unjust; second, that it is unconstitutional."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "See also the third example under . )"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "It may be asked, what if a writer needs to express a very large number of similar ideas, say twenty? Must he write twenty consecutive sentences of the same pattern? On closer examination he will probably find that the difficulty is imaginary, that his twenty ideas can be classified in groups, and that he need apply the principle only within each group. Otherwise he had best avoid difficulty by putting his statements in the form of a table."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Keep related words together."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "The position of the words in a sentence is the principal means of showing their relationship. The writer must therefore, so far as possible, bring together the words, and groups of words, that are related in thought, and keep apart those which are not so related."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "The subject of a sentence and the principal verb should not, as a rule, be separated by a phrase or clause that can be transferred to the beginning."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Wordsworth, in the fifth book of The Excursion, gives a minute description of this church."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "In the fifth book of The Excursion, Wordsworth gives a minute description of this church."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Cast iron, when treated in a Bessemer converter, is changed into steel."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "By treatment in a Bessemer converter, cast iron is changed into steel."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "The objection is that the interposed phrase or clause needlessly interrupts the natural order of the main clause. Usually, however, this objection does not hold when the order is interrupted only by a relative clause or by an expression in apposition. Nor does it hold in periodic sentences in which the interruption is a deliberately used means of creating suspense (see examples under )."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "The relative pronoun should come, as a rule, immediately after its antecedent."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "There was a look in his eye that boded mischief."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "In his eye was a look that boded mischief."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "He wrote three articles about his adventures in Spain, which were published in Harper's Magazine."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "He published in Harper's Magazine three articles about his adventures in Spain."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "This is a portrait of Benjamin Harrison, grandson of William Henry Harrison, who became President in 1889."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "This is a portrait of Benjamin Harrison, grandson of William Henry Harrison. He became President in 1889."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "If the antecedent consists of a group of words, the relative comes at the end of the group, unless this would cause ambiguity."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "The Superintendent of the Chicago Division, who"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "A proposal to amend the Sherman Act, which has been variously judged."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "A proposal, which has been variously judged, to amend the Sherman Act."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "A proposal to amend the much-debated Sherman Act."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "The grandson of William Henry Harrison, who"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "William Henry Harrison's grandson, who"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "A noun in apposition may come between antecedent and relative, because in such a combination no real ambiguity can arise."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "The Duke of York, his brother, who was regarded with hostility by the Whigs"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Modifiers should come, if possible, next to the word they modify. If several expressions modify the same word, they should be so arranged that no wrong relation is suggested."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "All the members were not present."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Not all the members were present."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "He only found two mistakes."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "He found only two mistakes."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Major R. E. Joyce will give a lecture on Tuesday evening in Bailey Hall, to which the public is invited, on “My Experiences in Mesopotamia” at eight P. M."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "On Tuesday evening at eight P. M., Major R. E. Joyce will give in Bailey Hall a lecture on “My Experiences in Mesopotamia.” The public is invited."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "In summaries, keep to one tense."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "In summarizing the action of a drama, the writer should always use the present tense. In summarizing a poem, story, or novel, he should preferably use the present, though he may use the past if he prefers. If the summary is in the present tense, antecedent action should be expressed by the perfect; if in the past, by the past perfect."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "An unforeseen chance prevents Friar John from delivering Friar Lawrence's letter to Romeo. Meanwhile, owing to her father's arbitrary change of the day set for her wedding, Juliet has been compelled to drink the potion on Tuesday night, with the result that Balthasar informs Romeo of her supposed death before Friar Lawrence learns of the non-delivery of the letter."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "But whichever tense be used in the summary, a past tense in indirect discourse or in indirect question remains unchanged."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "The Friar confesses that it was he who married them."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Apart from the exceptions noted, whichever tense the writer chooses, he should use throughout. Shifting from one tense to the other gives the appearance of uncertainty and irresolution (compare )."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "In presenting the statements or the thought of some one else, as in summarizing an essay or reporting a speech, the writer should avoid intercalating such expressions as “he said,” “he stated,” “the speaker added,” “the speaker then went on to say,” “the author also thinks,” or the like. He should indicate clearly at the outset, once for all, that what follows is summary, and then waste no words in repeating the notification."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "In notebooks, in newspapers, in handbooks of literature, summaries of one kind or another may be indispensable, and for children in primary schools it is a useful exercise to retell a story in their own words. But in the criticism or interpretation of literature the writer should be careful to avoid dropping into summary. He may find it necessary to devote one or two sentences to indicating the subject, or the opening situation, of the work he is discussing; he may cite numerous details to illustrate its qualities. But he should aim to write an orderly discussion supported by evidence, not a summary with occasional comment. Similarly, if the scope of his discussion includes a number of works, he will as a rule do better not to take them up singly in chronological order, but to aim from the beginning at establishing general conclusions."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Place the emphatic words of a sentence at the end."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "The proper place in the sentence for the word, or group of words, which the writer desires to make most prominent is usually the end."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Humanity has hardly advanced in fortitude since that time, though it has advanced in many other ways."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Humanity, since that time, has advanced in many other ways, but it has hardly advanced in fortitude."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "This steel is principally used for making razors, because of its hardness."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Because of its hardness, this steel is principally used in making razors."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "The word or group of words entitled to this position of prominence is usually the logical predicate, that is, the <em>new</em> element in the sentence, as it is in the second example."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "The effectiveness of the periodic sentence arises from the prominence which it gives to the main statement."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Four centuries ago, Christopher Columbus, one of the Italian mariners whom the decline of their own republics had put at the service of the world and of adventure, seeking for Spain a westward passage to the Indies as a set-off against the achievements of Portuguese discoverers, lighted on America."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "With these hopes and in this belief I would urge you, laying aside all hindrance, thrusting away all private aims, to devote yourself unswervingly and unflinchingly to the vigorous and successful prosecution of this war."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "The other prominent position in the sentence is the beginning. Any element in the sentence, other than the subject, may become emphatic when placed first."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Deceit or treachery he could never forgive."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "So vast and rude, fretted by the action of nearly three thousand years, the fragments of this architecture may often seem, at first sight, like works of nature."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "A subject coming first in its sentence may be emphatic, but hardly by its position alone. In the sentence,"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Great kings worshipped at his shrine,"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "the emphasis upon <em>kings</em> arises largely from its meaning and from the context. To receive special emphasis, the subject of a sentence must take the position of the predicate."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Through the middle of the valley flowed a winding stream."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "The principle that the proper place for what is to be made most prominent is the end applies equally to the words of a sentence, to the sentences of a paragraph, and to the paragraphs of a composition."
+  },
+  {
+    "tag": "h4",
+    "innerHtml": "Chapter IV. A Few Matters Of Form"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Headings\n Leave a blank line, or its equivalent in space, after the title or heading of a manuscript. On succeeding pages, if using ruled paper, begin on the first line."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Numerals\n Do not spell out dates or other serial numbers. Write them in figures or in Roman notation, as may be appropriate."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "August 9, 1918 (9 August 1918)"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Rule 3"
+  },
+  {
+    "tag": "h4",
+    "innerHtml": "Chapter XII"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "nd Infantry"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Parentheses\n A sentence containing an expression in parenthesis is punctuated, outside of the marks of parenthesis, exactly as if the expression in parenthesis were absent. The expression within is punctuated as if it stood by itself, except that the final stop is omitted unless it is a question mark or an exclamation point."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "I went to his house yesterday (my third attempt to see him), but he had left town."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "He declares (and why should we doubt his good faith? that he is now certain of success. )"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "(When a wholly detached expression or sentence is parenthesized, the final stop comes before the last mark of parenthesis.)"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Quotations\n Formal quotations, cited as documentary evidence, are introduced by a colon and enclosed in quotation marks."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "The provision of the Constitution is: “No tax or duty shall be laid on articles exported from any state.”"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Quotations grammatically in apposition or the direct objects of verbs are preceded by a comma and enclosed in quotation marks."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "I recall the maxim of La Rochefoucauld, “Gratitude is a lively sense of benefits to come.”"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Aristotle says, “Art is an imitation of nature.”"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Quotations of an entire line, or more, of verse, are begun on a fresh line and centered, but need not be enclosed in quotation marks."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Wordsworth's enthusiasm for the Revolution was at first unbounded:"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Bliss was it in that dawn to be alive,"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "But to be young was very heaven!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Quotations introduced by <em>that</em> are regarded as in indirect discourse and not enclosed in quotation marks."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Keats declares that beauty is truth, truth beauty."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Proverbial expressions and familiar phrases of literary origin require no quotation marks."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "These are the times that try men's souls."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "He lives far from the madding crowd."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "The same is true of colloquialisms and slang."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "References\n In scholarly work requiring exact references, abbreviate titles that occur frequently, giving the full forms in an alphabetical list at the end. As a general practice, give the references in parenthesis or in footnotes, not in the body of the sentence. Omit the words <em>act</em>, <em>scene</em>, <em>line</em>, <em>book</em>, <em>volume</em>, <em>page</em>, except when referring by only one of them. Punctuate as indicated below."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "In the second scene of the third act"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "In III.ii (still better, simply insert III.ii in parenthesis at the proper place in the sentence)"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "After the killing of Polonius, Hamlet is placed under guard (IV.ii. 14)."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Samuel i:17–27"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Othello II.iii. 264–267, III.iii. 155–161."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Syllabication\n If there is room at the end of a line for one or more syllables of a word, but not for the whole word, divide the word, unless this involves cutting off only a single letter, or cutting off only two letters of a long word. No hard and fast rule for all words can be laid down. The principles most frequently applicable are:"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "(a Divide the word according to its formation: )"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "know-ledge (not knowl-edge); Shake-speare (not Shakes-peare); de-scribe (not des-cribe); atmo-sphere (not atmos-phere);"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "(b Divide “on the vowel:” )"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "edi-ble (not ed-ible); propo-sition; ordi-nary; espe-cial; reli-gious; oppo-nents; regu-lar; classi-fi-ca-tion (three divisions allowable); deco-rative; presi-dent;"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "(c Divide between double letters, unless they come at the end of the simple form of the word: )"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Apen-nines; Cincin-nati; refer-ring; but tell-ing."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "(d Do not divide before final <em>-ed</em> if the <em>e</em> is silent: )"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "treat-ed (but not roam-ed or nam-ed)."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "The treatment of consonants in combination is best shown from examples:"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "for-tune; pic-ture; sin-gle; presump-tuous; illus-tration; sub-stan-tial (either division); indus-try; instruc-tion; sug-ges-tion; incen-diary."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "The student will do well to examine the syllable-division in a number of pages of any carefully printed book."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Titles\n For the titles of literary works, scholarly usage prefers italics with capitalized initials. The usage of editors and publishers varies, some using italics with capitalized initials, others using Roman with capitalized initials and with or without quotation marks. Use italics (indicated in manuscript by underscoring), except in writing for a periodical that follows a different practice. Omit initial <em>A</em> or <em>The</em> from titles when you place the possessive before them."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "The Iliad; the Odyssey; As You Like It; To a Skylark; The Newcomes; A Tale of Two Cities; Dickens's Tale of Two Cities."
+  },
+  {
+    "tag": "h4",
+    "innerHtml": "Chapter V. Words And Expressions Commonly Misused"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "(Some of the forms here listed, as <em>like I did</em>, are downright bad English; others, as the split infinitive, have their defenders, but are in such general disfavor that it is at least inadvisable to use them; still others, as <em>case</em>, <em>factor</em>, <em>feature</em>, <em>interesting</em>, <em>one of the most</em>, are good in their place, but are constantly obtruding themselves into places where they have no right to be. If the writer will make it his purpose from the beginning to express accurately his own individual thought, and will refuse to be satisfied with a ready-made formula that saves him the trouble of doing so, this last set of expressions will cause him little trouble. But if he finds that in a moment of inadvertence he has used one of them, his proper course will probably be not to patch up the sentence by substituting one word or set of words for another, but to recast it completely, as illustrated in a number of examples below and in others under Rules . ) )"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "All right\n Idiomatic in familiar speech as a detached phrase in the sense, “Agreed,” or “Go ahead.” In other uses better avoided. Always written as two words."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "As good or better than\n Expressions of this type should be corrected by rearranging the sentence."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "My opinion is as good or better than his."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "My opinion is as good as his, or better (if not better)."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "As to whether\n <em>Whether</em> is sufficient; see under ."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Bid\n Takes the infinitive without <em>to</em>. The past tense in the sense, “ordered,” is <em>bade</em>."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "But\n Unnecessary after <em>doubt</em> and <em>help</em>."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "I have no doubt but that"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "I have no doubt that"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "He could not help see but that"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "He could not help seeing that"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "The too frequent use of <em>but</em> as a conjunction leads to the fault discussed under . A loose sentence formed with <em>but</em> can always be converted into a periodic sentence formed with <em>although</em>, as illustrated under ."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Particularly awkward is the following of one <em>but</em> by another, making a contrast to a contrast or a reservation to a reservation. This is easily corrected by re-arrangement."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "America had vast resources, but she seemed almost wholly unprepared for war. But within a year she had created an army of four million men."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "America seemed almost wholly unprepared for war, but she had vast resources. Within a year she had created an army of four million men."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Can\n Means <em>am (is, are able</em>. Not to be used as a substitute for <em>may</em>. )"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Case\n The Concise Oxford Dictionary begins its definition of this word: “instance of a thing's occurring; usual state of affairs.” In these two senses, the word is usually unnecessary."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "In many cases, the rooms were poorly ventilated."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Many of the rooms were poorly ventilated."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "It has rarely been the case that any mistake has been made."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Few mistakes have been made."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "See Wood, Suggestions to Authors, pp. 68–71, and Quiller-Couch, The Art of Writing, pp. 103–106."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Certainly\n Used indiscriminately by some writers, much as others use <em>very</em>, to intensify any and every statement. A mannerism of this kind, bad in speech, is even worse in writing."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Character\n Often simply redundant, used from a mere habit of wordiness."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Acts of a hostile character"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Hostile acts"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Claim, vb\n With object-noun, means <em>lay claim to</em>. May be used with a dependent clause if this sense is clearly involved: “He claimed that he was the sole surviving heir.” (But even here, “claimed to be” would be better. Not to be used as a substitute for <em>declare</em>, <em>maintain</em>, or <em>charge</em>. )"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Clever\n This word has been greatly overused; it is best restricted to ingenuity displayed in small matters."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Compare\n To <em>compare to</em> is to point out or imply resemblances, between objects regarded as essentially of different order; to <em>compare with</em> is mainly to point out differences, between objects regarded as essentially of the same order. Thus life has been compared to a pilgrimage, to a drama, to a battle; Congress may be compared with the British Parliament. Paris has been compared to ancient Athens; it may be compared with modern London."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Consider\n Not followed by <em>as</em> when it means “believe to be.” “I consider him thoroughly competent.” Compare, “The lecturer considered Cromwell first as soldier and second as administrator,” where “considered” means “examined” or “discussed.”"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Data\n A plural, like <em>phenomena</em> and <em>strata</em>."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "These data were tabulated."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Dependable\n A needless substitute for <em>reliable</em>, <em>trustworthy</em>."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Different than\n Not permissible. Substitute <em>different from</em>, <em>other than</em>, or <em>unlike</em>."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Divided into\n Not to be misused for <em>composed of</em>. The line is sometimes difficult to draw; doubtless plays are divided into acts, but poems are composed of stanzas."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Don't\n Contraction of <em>do not</em>. The contraction of <em>does not</em> is <em>doesn't</em>."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Due to\n Incorrectly used for <em>through</em>, <em>because of</em>, or <em>owing to</em>, in adverbial phrases: “He lost the first game, due to carelessness.” In correct use related as predicate or as modifier to a particular noun: “This invention is due to Edison;” “losses due to preventable fires.”"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Folk\n A collective noun, equivalent to <em>people</em>. Use the singular form only."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Effect\n As noun, means <em>result</em>; as verb, means <em>to bring about</em>, <em>accomplish</em> (not to be confused with <em>affect</em>, which means “to influence”)."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "As noun, often loosely used in perfunctory writing about fashions, music, painting, and other arts: “an Oriental effect;” “effects in pale green;” “very delicate effects;” “broad effects;” “subtle effects;” “a charming effect was produced by.” The writer who has a definite meaning to express will not take refuge in such vagueness."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Etc\n Equivalent to <em>and the rest</em>, <em>and so forth</em>, and hence not to be used if one of these would be insufficient, that is, if the reader would be left in doubt as to any important particulars. Least open to objection when it represents the last terms of a list already given in full, or immaterial words at the end of a quotation."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "At the end of a list introduced by <em>such as</em>, <em>for example</em>, or any similar expression, <em>etc.</em> is incorrect."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Fact\n Use this word only of matters of a kind capable of direct verification, not of matters of judgment. That a particular event happened on a given date, that lead melts at a certain temperature, are facts. But such conclusions as that Napoleon was the greatest of modern generals, or that the climate of California is delightful, however incontestable they may be, are not properly facts."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "On the formula <em>the fact that</em>, see under ."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Factor\n A hackneyed word; the expressions of which it forms part can usually be replaced by something more direct and idiomatic."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "His superior training was the great factor in his winning the match."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "He won the match by being better trained."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Heavy artillery has become an increasingly important factor in deciding battles."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Heavy artillery has played a constantly larger part in deciding battles."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Feature\n Another hackneyed word; like <em>factor</em> it usually adds nothing to the sentence in which it occurs."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "A feature of the entertainment especially worthy of mention was the singing of Miss A."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "(Better use the same number of words to tell what Miss A. sang, or if the programme has already been given, to tell how she sang.)"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "As a verb, in the advertising sense of <em>offer as a special attraction</em>, to be avoided."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Fix\n Colloquial in America for <em>arrange</em>, <em>prepare</em>, <em>mend</em>. In writing restrict it to its literary senses, <em>fasten</em>, <em>make firm or immovable</em>, etc."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Get\n The colloquial <em>have got</em> for <em>have</em> should not be used in writing. The preferable form of the participle is <em>got</em>."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "He is a man who\n A common type of redundant expression; see ."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "He is a man who is very ambitious."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "He is very ambitious."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Spain is a country which I have always wanted to visit."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "I have always wanted to visit Spain."
+  },
+  {
+    "tag": "hr",
+    "innerHtml": ""
+  },
+  {
+    "tag": "p",
+    "innerHtml": "However"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "In the meaning <em>nevertheless</em>, not to come first in its sentence or clause."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "The roads were almost impassable. However, we at last succeeded in reaching camp."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "The roads were almost impassable. At last, however, we succeeded in reaching camp."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "When <em>however</em> comes first, it means <em>in whatever way</em> or <em>to whatever extent</em>."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "However you advise him, he will probably do as he thinks best."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "However discouraging the prospect, he never lost heart."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Interesting"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Avoid this word as a perfunctory means of introduction. Instead of announcing that what you are about to tell is interesting, make it so."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "An interesting story is told of"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "(Tell the story without preamble.)"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "In connection with the anticipated visit of Mr. B. to America, it is interesting to recall that he"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Mr. B., who it is expected will soon visit America"
+  },
+  {
+    "tag": "ul",
+    "innerHtml": {
+      "list": [
+        "Kind of"
+      ]
+    }
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Not to be used as a substitute for <em>rather</em> (before adjectives and verbs), or except in familiar style, for <em>something like</em> (before nouns). Restrict it to its literal sense: “Amber is a kind of fossil resin;” “I dislike that kind of notoriety.” The same holds true of <em>sort of</em>."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Less\n Should not be misused for <em>fewer</em>."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "He had less men than in the previous campaign"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "He had fewer men than in the previous campaign"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "<em>Less</em> refers to quantity, <em>fewer</em> to number. “His troubles are less than mine” means “His troubles are not so great as mine.” “His troubles are fewer than mine” means “His troubles are not so numerous as mine.” It is, however, correct to say, “The signers of the petition were less than a hundred,” where the round number <em>a hundred</em> is something like a collective noun, and <em>less</em> is thought of as meaning a less quantity or amount."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Like\n Not to be misused for <em>as</em>. <em>Like</em> governs nouns and pronouns; before phrases and clauses the equivalent word is <em>as</em>."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "We spent the evening like in the old days."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "We spent the evening as in the old days."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "He thought like I did."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "He thought as I did (like me)."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Line, along these lines\n <em>Line</em> in the sense of <em>course of procedure</em>, <em>conduct</em>, <em>thought</em>, is allowable, but has been so much overworked, particularly in the phrase <em>along these lines</em>, that a writer who aims at freshness or originality had better discard it entirely."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Mr. B. also spoke along the same lines."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Mr. B. also spoke, to the same effect."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "He is studying along the line of French literature."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "He is studying French literature."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Literal, literally\n Often incorrectly used in support of exaggeration or violent metaphor."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "A literal flood of abuse."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "A flood of abuse."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Literally dead with fatigue"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Almost dead with fatigue (dead tired)"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Lose out\n Meant to be more emphatic than <em>lose</em>, but actually less so, because of its commonness. The same holds true of <em>try out</em>, <em>win out</em>, <em>sign up</em>, <em>register up</em>. With a number of verbs, <em>out</em> and <em>up</em> form idiomatic combinations: <em>find out</em>, <em>run out</em>, <em>turn out</em>, <em>cheer up</em>, <em>dry up</em>, <em>make up</em>, and others, each distinguishable in meaning from the simple verb. <em>Lose out</em> is not."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Most\n Not to be used for <em>almost</em>."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Most everybody"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Almost everybody"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Most all the time"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Almost all the time"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Nature\n Often simply redundant, used like __."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Acts of a hostile nature"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Hostile acts"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Often vaguely used in such expressions as a “lover of nature;” “poems about nature.” Unless more specific statements follow, the reader cannot tell whether the poems have to do with natural scenery, rural life, the sunset, the untracked wilderness, or the habits of squirrels."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Near by\n Adverbial phrase, not yet fully accepted as good English, though the analogy of <em>close by</em> and <em>hard by</em> seems to justify it. <em>Near</em>, or <em>near at hand</em>, is as good, if not better."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Not to be used as an adjective; use <em>neighboring</em>."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Oftentimes, ofttimes\n Archaic forms, no longer in good use. The modern word is <em>often</em>."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "One hundred and one\n Retain the <em>and</em> in this and similar expressions, in accordance with the unvarying usage of English prose from Old English times."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "One of the most\n Avoid beginning essays or paragraphs with this formula, as, “One of the most interesting developments of modern science is, etc.;” “Switzerland is one of the most interesting countries of Europe.” There is nothing wrong in this; it is simply threadbare and forcible-feeble."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "A common blunder is to use a singular verb in a relative clause following this or a similar expression, when the relative is the subject."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "One of the ablest men that has attacked this problem."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "One of the ablest men that have attacked this problem."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Participle for verbal noun"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Do you mind me asking a question?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Do you mind my asking a question?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "There was little prospect of the Senate accepting even this compromise."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "There was little prospect of the Senate's accepting even this compromise."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "In the left-hand column, <em>asking</em> and <em>accepting</em> are present participles; in the right-hand column, they are verbal nouns (gerunds). The construction shown in the left-hand column is occasionally found, and has its defenders. Yet it is easy to see that the second sentence has to do not with a prospect of the Senate, but with a prospect of accepting. In this example, at least, the construction is plainly illogical."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "As the authors of The King's English point out, there are sentences apparently, but not really, of this type, in which the possessive is not called for."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "I cannot imagine Lincoln refusing his assent to this measure."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "In this sentence, what the writer cannot imagine is Lincoln himself, in the act of refusing his assent. Yet the meaning would be virtually the same, except for a slight loss of vividness, if he had written,"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "I cannot imagine Lincoln's refusing his assent to this measure."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "By using the possessive, the writer will always be on the safe side."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "In the examples above, the subject of the action is a single, unmodified term, immediately preceding the verbal noun, and the construction is as good as any that could be used. But in any sentence in which it is a mere clumsy substitute for something simpler, or in which the use of the possessive is awkward or impossible, should of course be recast."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "In the event of a reconsideration of the whole matter's becoming necessary"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "If it should become necessary to reconsider the whole matter"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "There was great dissatisfaction with the decision of the arbitrators being favorable to the company."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "There was great dissatisfaction that the arbitrators should have decided in favor of the company."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "People\n <em>The people</em> is a political term, not to be confused with <em>the public</em>. From the people comes political support or opposition; from the public comes artistic appreciation or commercial patronage."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Phase\n Means a stage of transition or development: “the phases of the moon;” “the last phase.” Not to be used for <em>aspect</em> or <em>topic</em>."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Another phase of the subject"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Another point (another question)"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Possess\n Not to be used as a mere substitute for <em>have</em> or <em>own</em>."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "He possessed great courage."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "He had great courage (was very brave)."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "He was the fortunate possessor of"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "He owned"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Prove\n The past participle is <em>proved</em>."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Respective, respectively\n These words may usually be omitted with advantage."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Works of fiction are listed under the names of their respective authors."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Works of fiction are listed under the names of their authors."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "The one mile and two mile runs were won by Jones and Cummings respectively."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "The one mile and two mile runs were won by Jones and by Cummings."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "In some kinds of formal writing, as geometrical proofs, it may be necessary to use <em>respectively</em>, but it should not appear in writing on ordinary subjects."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Shall, Will\n The future tense requires <em>shall</em> for the first person, <em>will</em> for the second and third. The formula to express the speaker's belief regarding his future action or state is <em>I shall</em>; <em>I will</em> expresses his determination or his consent."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Should\n See under"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "So  Avoid, in writing, the use of <em>so</em> as an intensifier: “so good;” “so warm;” “so delightful.”"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "On the use of <em>so</em> to introduce clauses, see ."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Sort of\n See under"
+  },
+  {
+    "tag": "hr",
+    "innerHtml": ""
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Split Infinitive\n There is precedent from the fourteenth century downward for interposing an adverb between <em>to</em> and the infinitive which it governs, but the construction is in disfavor and is avoided by nearly all careful writers."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "To diligently inquire"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "To inquire diligently"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "State\n Not to be used as a mere substitute for <em>say</em>, <em>remark</em>. Restrict it to the sense of <em>express fully or clearly</em>, as, “He refused to state his objections.”"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Student Body\n A needless and awkward expression meaning no more than the simple word <em>students</em>."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "A member of the student body"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "A student"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Popular with the student body"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Liked by the students"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "The student body passed resolutions."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "The students passed resolutions."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "System\n Frequently used without need."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Dayton has adopted the commission system of government."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Dayton has adopted government by commission."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "The dormitory system"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Dormitories"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Thanking You in Advance\n This sounds as if the writer meant, “It will not be worth my while to write to you again.” In making your request, write, “Will you please,” or “I shall be obliged,” and if anything further seems necessary write a letter of acknowledgment later."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "They\n A common inaccuracy is the use of the plural pronoun when the antecedent is a distributive expression such as <em>each</em>, <em>each one</em>, <em>everybody</em>, <em>every one</em>, <em>many a man</em>, which, though implying more than one person, requires the pronoun to be in the singular. Similar to this, but with even less justification, is the use of the plural pronoun with the antecedent <em>anybody</em>, <em>any one</em>, <em>somebody</em>, <em>some one</em>, the intention being either to avoid the awkward “he or she,” or to avoid committing oneself to either. Some bashful speakers even say, “A friend of mine told me that they, etc.”"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Use <em>he</em> with all the above words, unless the antecedent is or must be feminine."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Very\n Use this word sparingly. Where emphasis is necessary, use words strong in themselves."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Viewpoint\n Write <em>point of view</em>, but do not misuse this, as many do, for <em>view</em> or <em>opinion</em>."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "While\n Avoid the indiscriminate use of this word for <em>and</em>, <em>but</em>, and <em>although</em>. Many writers use it frequently as a substitute for <em>and</em> or <em>but</em>, either from a mere desire to vary the connective, or from uncertainty which of the two connectives is the more appropriate. In this use it is best replaced by a semicolon."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "The office and salesrooms are on the ground floor, while the rest of the building is devoted to manufacturing."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "The office and salesrooms are on the ground floor; the rest of the building is devoted to manufacturing."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Its use as a virtual equivalent of <em>although</em> is allowable in sentences where this leads to no ambiguity or absurdity."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "While I admire his energy, I wish it were employed in a better cause."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "This is entirely correct, as shown by the paraphrase,"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "I admire his energy; at the same time I wish it were employed in a better cause."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Compare:"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "While the temperature reaches 90 or 95 degrees in the daytime, the nights are often chilly."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Although the temperature reaches 90 or 95 degrees in the daytime, the nights are often chilly."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "The paraphrase,"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "The temperature reaches 90 or 95 degrees in the daytime; at the same time the nights are often chilly,"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "shows why the use of <em>while</em> is incorrect."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "In general, the writer will do well to use <em>while</em> only with strict literalness, in the sense of <em>during the time that</em>."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Whom\n Often incorrectly used for <em>who</em> before <em>he said</em> or similar expressions, when it is really the subject of a following verb."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "His brother, whom he said would send him the money"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "His brother, who he said would send him the money"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "The man whom he thought was his friend"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "The man who (that he thought was his friend (whom he thought his friend ) )"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Worth while\n Overworked as a term of vague approval and (with <em>not</em> of disapproval. Strictly applicable only to actions: “Is it worth while to telegraph?” )"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "His books are not worth while."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "His books are not worth reading (are not worth one's while to read; do not repay reading; are worthless)."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "The use of <em>worth while</em> before a noun (“a worth while story” is indefensible. )"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Would\n A conditional statement in the first person requires <em>should</em>, not <em>would</em>."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "I should not have succeeded without his help."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "The equivalent of <em>shall</em> in indirect quotation after a verb in the past tense is <em>should</em>, not <em>would</em>."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "He predicted that before long we should have a great surprise."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "To express habitual or repeated action, the past tense, without <em>would</em>, is usually sufficient, and from its brevity, more emphatic."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Once a year he would visit the old mansion."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Once a year he visited the old mansion."
+  },
+  {
+    "tag": "h4",
+    "innerHtml": "Chapter VI. Spelling"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "The spelling of English words is not fixed and invariable, nor does it depend on any other authority than general agreement. At the present day there is practically unanimous agreement as to the spelling of most words. In the list below, for example, <em>rime</em> for <em>rhyme</em> is the only allowable variation; all the other forms are co-extensive with the English language. At any given moment, however, a relatively small number of words may be spelled in more than one way. Gradually, as a rule, one of these forms comes to be generally preferred, and the less customary form comes to look obsolete and is discarded. From time to time new forms, mostly simplifications, are introduced by innovators, and either win their place or die of neglect."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "The practical objection to unaccepted and over-simplified spellings is the disfavor with which they are received by the reader. They distract his attention and exhaust his patience. He reads the form <em>though</em> automatically, without thought of its needless complexity; he reads the abbreviation <em>tho</em> and mentally supplies the missing letters, at the cost of a fraction of his attention. The writer has defeated his own purpose."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "WORDS OFTEN MISSPELLED"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "accidentally\n   advice\n   affect\n   believe\n   benefit\n   challenge\n   coarse\n   course\n   criticize\n   deceive\n   definite\n   describe\n   despise\n   develop\n   disappoint\n   dissipate\n   duel\n   ecstasy\n   effect\n   embarrass\n   existence\n   fascinate\n   fiery\n   formerly\n   humorous\n   hypocrisy\n   immediately\n   impostor\n   incident\n   incidentally\n   latter\n   led\n   lose\n   marriage\n   mischief\n   murmur\n   necessary\n   occurred\n   opportunity\n   parallel\n   Philip\n   playwright\n   preceding\n   prejudice\n   principal\n   principle\n   privilege\n   pursue\n   repetition\n   rhyme\n   rhythm\n   ridiculous\n   sacrilegious\n   seize\n   separate\n   shepherd\n   siege\n   similar\n   simile\n   too\n   tragedy\n   tries\n   undoubtedly\n   until\n   villain"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Note that a single consonant (other than <em>v</em> preceded by a stressed short vowel is doubled before <em>-ed</em> and <em>-ing</em>: <em>planned</em>, <em>letting</em>, <em>beginning</em>. (<em>Coming</em> is an exception. ) )"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Write <em>to-day</em>, <em>to-night</em>, <em>to-morrow</em> (but not <em>together</em> with a hyphen. )"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Write <em>any one</em>, <em>every one</em>, <em>some one</em>, <em>some time</em> (except in the sense of <em>formerly</em> as two words. )"
+  },
+  {
+    "tag": "h4",
+    "innerHtml": "Chapter VII. Exercises On Chapters II And III"
+  },
+  {
+    "tag": "h5",
+    "innerHtml": "I. Punctuate:"
+  },
+  {
+    "tag": "ul",
+    "innerHtml": {
+      "list": [
+        "In 1788 the King's advisers warned him that the nation was facing bankruptcy therefore he summoned a body called the States-General believing that it would authorize him to levy new taxes. The people of France however were suffering from burdensome taxation oppressive social injustice and acute scarcity of food and their representatives refused to consider projects of taxation until social and economic reforms should be granted. The King who did not realize the gravity of the situation tried to overawe them collecting soldiers in and about Versailles where the sessions were being held. The people of Paris seeing the danger organized militia companies to defend their representatives. In order to supply themselves with arms they attacked the Invalides and the Bastille which contained the principal supplies of arms and munitions in Paris.",
+        "On his first continental tour begun in 1809 Byron visited Portugal Spain Albania Greece and Turkey. Of this tour he composed a poetical journal Childe Harold's Pilgrimage in which he ascribed his experiences and reflections not to himself but to a fictitious character Childe Harold described as a melancholy young nobleman prematurely familiar with evil sated with pleasures and embittered against humanity. The substantial merits of the work however lay not in this shadowy and somewhat theatrical figure but in Byron's spirited descriptions of wild or picturesque scenes and in his eloquent championing of Spain and Greece against their oppressors. On his return to England in 1811 he was persuaded rather against his own judgment into allowing the work to be published. Its success was almost unprecedented in his own words he awoke and found himself famous."
+      ]
+    }
+  },
+  {
+    "tag": "h5",
+    "innerHtml": "II. Explain The Difference In Meaning:"
+  },
+  {
+    "tag": "ul",
+    "innerHtml": {
+      "list": [
+        "‘God save thee, ancyent Marinere!"
+      ]
+    }
+  },
+  {
+    "tag": "p",
+    "innerHtml": "‘From the fiends that plague thee thus—"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Lyrical Ballads, 1798."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "‘God save thee, ancient Mariner!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "From the fiends, that plague thee thus!—"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Lyrical Ballads, 1800."
+  },
+  {
+    "tag": "h5",
+    "innerHtml": "III. Explain And Correct The Errors In Punctuation:"
+  },
+  {
+    "tag": "ul",
+    "innerHtml": {
+      "list": [
+        "This course is intended for Freshmen, who in the opinion of the Department are not qualified for military drill.",
+        "A restaurant, not a cafeteria where good meals are served at popular prices.—Advt.",
+        "The poets of The Nation, for all their intensity of patriotic feeling, followed the English rather than the Celtic tradition, their work has a political rather than a literary value and bears little upon the development of modern Irish verse.",
+        "We were in one of the strangest places imaginable. A long and narrow passage overhung on either side by a stupendous barrier of black and threatening rocks.",
+        "Only a few years ago after a snow storm in the passes not far north of Jerusalem no less than twenty-six Russian pilgrims perished amidst the snow. One cannot help thinking largely because they made little attempt to save themselves."
+      ]
+    }
+  },
+  {
+    "tag": "h5",
+    "innerHtml": "IV. Point Out And Correct The Faults In The Following Sentences:"
+  },
+  {
+    "tag": "ul",
+    "innerHtml": {
+      "list": [
+        "During childhood his mother had died.",
+        "Any language study is good mind training while acquiring vocabulary.",
+        "My farm consisted of about twenty acres of excellent land, having given a hundred pounds for my predecessor's lease.",
+        "Prepared to encounter a woman of disordered mind, the appearance presented by Mrs. Taylor at his entrance greatly astonished him.",
+        "Pale and swooning, with two broken legs, they carried him into the house.",
+        "Count Cassini, the Russian plenipotentiary, had several long and intimate conversations during the tedious weeks of the conference with his British colleague, Sir Arthur Nicholson.",
+        "But though they had been victorious in the land engagements, they were so little decisive as to lead to no important results.",
+        "Knowing nothing of the rules of the college or of its customs, it was with the greatest difficulty that the Dean could make me comprehend wherein my wrong-doing lay.",
+        "Fire, therefore, was the first object of my search. Happily, some embers were found upon the hearth, together with potato-stalks and dry chips. Of these, with much difficulty, I kindled a fire, by which some warmth was imparted to our shivering limbs.",
+        "In this connection a great deal of historic fact is introduced into the novel about the past history of the cathedral and of Spain.",
+        "Over the whole scene hung the haze of twilight that is so peaceful.",
+        "Compared with Italy, living is more expensive.",
+        "It is a fundamental principle of law to believe a man innocent until he is proved guilty, and once proved guilty, to remain so until proved to the contrary.",
+        "Not only had the writer entrée to the titled families of Italy in whose villas she was hospitably entertained, but by royalty also.",
+        "It is not a strange sight to catch a glimpse of deer along the shore.",
+        "Earnings from other sources are of such a favorable character as to enable a splendid showing to be made by the company.",
+        "But while earnings have mounted amazingly, the status of affairs is such as to make it impossible to predict the course events may take, with any degree of accuracy."
+      ]
+    }
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Transcriber's Note"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "The following is a list of corrections made to the original. The first passage is the original passage, the second the corrected one."
+  },
+  {
+    "tag": "p",
+    "innerHtml": ":<br>    of his manuscript Mr. George McLane Wood has<br>    of his manuscript. Mr. George McLane Wood has\n   :<br>    Compare the sentence. “The export of gold was prohibited,”<br>    Compare the sentence, “The export of gold was prohibited,”\n   :<br>    under Rule 10. But apart from this, he should follow the<br>    under Rule 9. But apart from this, he should follow the\n   :<br>    in the sense, “ordered” is <em>bade</em>. )"
+  },
+  {
+    "tag": "pre",
+    "innerHtml": "in the sense, “ordered,” is _bade_."
+  },
+  {
+    "tag": "p",
+    "innerHtml": ":"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Effect\n As noun, means <em>result</em>; as verb, means t_o_ <em>bring</em>"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Effect\n As noun, means <em>result</em>; as verb, means <em>to bring</em>\n   :<br>    they ma ybe, are not properly facts.<br>    they may be, are not properly facts.\n   :<br>    Acts of a hostile nature.<br>    Acts of a hostile nature\n   :<br>    Dayton has adopted the commission system of government<br>    Dayton has adopted the commission system of government.\n   :<br>    embarass<br>    embarrass"
+  },
+  {
+    "tag": "hr",
+    "innerHtml": ""
+  },
+  {
+    "tag": "h3",
+    "innerHtml": "The End"
+  }
+]
